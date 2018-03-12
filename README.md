@@ -409,8 +409,7 @@ unprofessional behavior.
 * Joe Lucia
 * Amy Riegelman
 * Robert H. McDonald
-* Samuel R. Putnam
-
+* Matthew Barnett
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
