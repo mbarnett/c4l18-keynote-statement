@@ -407,9 +407,7 @@ unprofessional behavior.
 * Ursula Pieper
 * Paul Wester
 * Joe Lucia
-* Amy Riegelman
-* Robert H. McDonald
-
+* Matthew Barnett
 
 *Additional signatures are welcome. To sign, please open a pull request
 or issue at the
